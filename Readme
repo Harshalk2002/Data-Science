@@ -1,0 +1,36 @@
+### Project Description: Sales Analysis Using Power BI
+
+#### Objective
+The primary goal of this project is to analyze sales data to gain insights into the total revenue, sales growth, geographical sales distribution, top customers, and top-performing products. The analysis also aims to identify the effectiveness of different sales channels and track key dates for orders and shipments.
+
+#### Data Analyzed
+The data analyzed in this project includes:
+- **Geographical Information**: Suburb, city, postcodes, longitude, latitude, address.
+- **Order Information**: Order date, ship date, order number.
+- **Sales Channels**: Wholesale, distributor, export.
+- **Product Information**: A total of 20 products.
+- **Customer Information**: Customer names and indices.
+
+#### Key Analysis Questions
+1. **Total Revenue**: Calculation of total revenue generated for the year.
+2. **Sales Growth**: Analysis of the percentage or number of sales increase compared to the previous year.
+3. **Geographical Sales**: Identification of specific areas or geographical locations where sales are higher, visualized on a map.
+4. **Top Customers**: Identification of the top 10 customers by revenue.
+5. **Top Products**: Identification of the top 10 products by sales.
+6. **Top-Performing Cities**: Determination of cities with the highest sales performance.
+7. **Sales Channels**: Analysis of the channels used for sales.
+8. **Total Unit Cost**: Calculation of the total unit cost for the year.
+9. **Order and Ship Dates**: Analysis of the most frequent order and ship dates.
+
+#### Visualizations
+The project includes various charts and visualizations to represent the data insights:
+- **Bar Chart**: Order number vs. total revenue.
+- **Bar Chart**: Index of regions vs. city.
+- **Bar Chart**: Customer name index vs. total revenue.
+- **Map**: Geographical distribution of sales.
+- **Card**: Total unit cost.
+- **Line Graph**: Ordered date vs. ordered number.
+- **Line Graph**: Ship date vs. ordered number.
+- **Additional Visuals**: City vs. revenue, order number vs. channel.
+
+This analysis provides a comprehensive overview of the sales performance, highlighting key areas for potential improvement and strategic focus. The insights gained from this analysis can inform business decisions and optimize sales strategies.
